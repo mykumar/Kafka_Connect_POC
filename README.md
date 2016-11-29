@@ -13,7 +13,7 @@ $ Vagrant up
 As we need Database, Hadoop, Kafka, Schema Registry along with Hive, Connectors. I created a Installation script. Just hit : 
 
 ```sh
-$ install.sh
+$ deb.sh
 ```
 
 ### Hive MetaStore
